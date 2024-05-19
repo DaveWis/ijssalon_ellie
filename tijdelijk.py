@@ -28,7 +28,7 @@ def print_aanbieding():
 
 decoreer("Aanbieding")
 
-print_aanbieding()
+print_aanbieding
 
 
 
