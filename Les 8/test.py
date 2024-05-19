@@ -1,5 +1,21 @@
-def print_10(): 
-    for i in range(10):
-        print(i +1)
+def mijn_functie(string1, string2):
+    uitvoer = ""
+    for c in string1:
+        if c in string2:
+            uitvoer += c
+    return uitvoer 
 
-print_10()
+string1 = "ABC"
+string2 = "BCD"
+print(mijn_functie)
+
+
+
+
+
+
+    
+
+
+
+
